@@ -12,7 +12,7 @@
   "type": "module",
   "dependencies": {
     "body-parser": "^1.20.3",
-    "chalk": "^5.4.1",
+    "chalk": "^6.0.0",
     "ejs": "^3.1.10",
     "express": "^4.21.2"
   }
